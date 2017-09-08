@@ -1,5 +1,6 @@
- [![Build Status](https://travis-ci.org/smac-group/test.svg?branch=master)]
-(https://travis-ci.org/smac-group/test)
+
+
+[![Build Status](https://travis-ci.org/SMAC-group/test.svg)](https://travis-ci.org/SMAC-group/test)
 
 Hi
 
